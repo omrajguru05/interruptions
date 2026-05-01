@@ -153,6 +153,8 @@ Edge case handling is not a one-time activity. Systems must be iteratively impro
 
 By using this framework, you acknowledge that all implementation, testing, and deployment decisions are your responsibility. We assume no liability for any system failures, data loss, financial impact, or other unintended consequences resulting from its use.
 
+*Expect roughly 50,000 tokens (~$1.25) per full audit—enable Prompt Caching to slash input costs by 90%.*
+
 ## License
 
 MIT. Use it, fork it, ship it. Attribution is appreciated and the skill itself preserves it in the audit footer by default.
