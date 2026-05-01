@@ -1,5 +1,6 @@
 # interruptions
 
+A system that analyzes real user behavior and reveals edge cases across flows like navigation, interruptions, and incomplete actions.
 <p align="center">
   <img src="interruptions-banner.png" alt="interruptions banner" width="100%">
 </p>
