@@ -1,5 +1,7 @@
 # interruptions
 
+![interruptions banner](interruptions-banner.png)
+
 I built `interruptions` because every product I shipped had edge cases I missed until users hit them. Edge cases are the gap between what you tested and what actually happens. They are also the difference between a product that feels polished and one that feels brittle.
 
 This is a Claude skill. You install it once, and from then on, whenever you ask Claude to audit a flow, find what could go wrong, or stress test a feature, it walks your code through 12 categories of failure modes, writes a thorough audit, waits for you to read it, and then helps you fix the issues in order of severity.
