@@ -1,6 +1,8 @@
 # interruptions
 
-![interruptions banner](interruptions-banner.png)
+<p align="center">
+  <img src="interruptions-banner.png" alt="interruptions banner" width="100%">
+</p>
 
 I built `interruptions` because every product I shipped had edge cases I missed until users hit them. Edge cases are the gap between what you tested and what actually happens. They are also the difference between a product that feels polished and one that feels brittle.
 
